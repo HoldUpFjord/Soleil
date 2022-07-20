@@ -3293,9 +3293,9 @@ input, select, textarea {
 		}*/
 		
 
-		@media screen and (max-width: 980px) {
+		@media screen and (min-width: 1280px) {
 			
-			#header .links {
+			#header {
 				display: none;
 			}
 
@@ -3316,7 +3316,15 @@ input, select, textarea {
 					display: none;
 				}
 
+		
+		/*@media screen and (min-width:1280px) {
+			#header{
+				display:none;
+			}
+		}	*/
 		}
+
+
 
 /* Wrapper */
 
