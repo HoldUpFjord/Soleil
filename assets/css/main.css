@@ -3286,11 +3286,12 @@ input, select, textarea {
 				opacity: 1;
 				padding: 0 0.5em 0 0;
 			}
+		
 		/*@media screen and (min-width: 1280px) {
 			#header {
 				display: none;
-			}
-		*/
+		}*/
+		
 
 		@media screen and (max-width: 980px) {
 			
