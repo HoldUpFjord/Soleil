@@ -3697,6 +3697,11 @@ input, select, textarea {
 	height: 100%;
 }
 
+.Title {
+	display: flex;
+	justify-content: center;
+}
+
 
 /* ADD MEDIA QUERY ON .POST 1280PX padding: 3em 3em 1em 3em
 	remove .post default padding. 
