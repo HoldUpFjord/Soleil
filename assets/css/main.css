@@ -2741,6 +2741,14 @@ input, select, textarea {
 		
 	}
 
+		@media screen and (min-width:1280px){
+			.post{
+				padding: 0em 0em 0em 0em;
+			}
+		}
+		
+	
+
 		.post > header {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -3690,3 +3698,7 @@ input, select, textarea {
 }
 
 
+/* ADD MEDIA QUERY ON .POST 1280PX padding: 3em 3em 1em 3em
+	remove .post default padding. 
+
+	OR add media query at >1280px to remove padding for better mobile first responsiveness*/
