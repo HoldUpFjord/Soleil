@@ -3384,7 +3384,7 @@ input, select, textarea {
 
 		}
 
-		body.single #wrapper {
+		body.about #wrapper {
 			display: block;
 		}
 
@@ -3530,7 +3530,7 @@ input, select, textarea {
 		text-transform: uppercase;
 	}
 
-	body.single #footer {
+	body.about #footer {
 		text-align: center;
 	}
 
